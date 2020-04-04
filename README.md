@@ -1,3 +1,3 @@
-![alt text](screenshot/login.png | width=100)
+![alt text](screenshot/login.png)
 
 ![alt text](screenshot/signup.png)
